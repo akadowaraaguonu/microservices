@@ -1,0 +1,17 @@
+env/
+# See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
+
+# dependencies
+
+posts-microservices-frontend/node_modules/
+posts-microservices-frontend/.pnp
+posts-microservices-frontend/.pnp.js
+
+# testing
+# posts-microservices-frontend/coverage/
+
+# production
+# posts-microservices-frontend/build/
+
+# misc
+
